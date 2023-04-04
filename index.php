@@ -367,11 +367,6 @@ $user_data = check_login($con);
 					<i class="bi-github">
 					</i>
 				</a>
-				<!-- <a class="social-icons m-2 b" href="#!"><i class="bi-instagram"></i></a>
-                    <a class="social-icons m-2" href="#!"><i class="bi-facebook"></i></a>
-                    <a class="social-icons m-2" href="#!"><i class="bi-twitter"></i></a>
-                    <a class="social-icons m-2" href="#!"><i class="bi-linkedin"></i></a>
-                    <a class="social-icons m-2" href="#!"><i class="bi-github"></i></a> -->
 			</div>
 		</div>
 	</section>
@@ -479,11 +474,6 @@ $user_data = check_login($con);
 		</div>
 	</div>
 
-
-	<!-- 2. İMPORTLAMA YOLU -->
-	<!-- <script>
-            var call_sablon = document.querySelector('#sablon');
-        </script> -->
 
 	<!-- Bootstrap core JS-->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
